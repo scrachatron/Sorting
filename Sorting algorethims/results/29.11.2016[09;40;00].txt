@@ -1,0 +1,13 @@
+Running algorethims on an array of size: 256
+Running average over 2048 itteration(s)
+Running with datatype randomness of 1: Almost ordered unique data
+
+
+-----------
+CountingSort: 100/KB
+19382.3701171875/Ticks
+1.93823701171875/ms
+-----------
+InsersionSort: 99/KB
+19940.4775390625/Ticks
+1.99404775390625/ms

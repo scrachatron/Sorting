@@ -1,0 +1,13 @@
+Running algorethims on an array of size: 512
+Running average over 2048 itteration(s)
+Running with datatype randomness of 3: partitioned data
+
+
+-----------
+CountingSort: 100/KB
+24429.6103515625/Ticks
+2.44296103515625/ms
+-----------
+InsersionSort: 100/KB
+59594.6474609375/Ticks
+5.95946474609375/ms
